@@ -1,3 +1,3 @@
 # student-true-academy
 this is my first project
-autor: shaik rahman basha
+autor: (shaik rahman basha);
